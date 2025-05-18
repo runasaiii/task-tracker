@@ -43,6 +43,8 @@ npm start
 
 Скриншоты
 ![image](https://github.com/user-attachments/assets/3c41efd2-6b68-4a1e-bbef-ab2c9bdc4637)
+![image](https://github.com/user-attachments/assets/9b8501d2-ed96-4ac2-93cb-c2e2d7efac74)
+
 
 Контакты
 Разработчик: @runasaiii
